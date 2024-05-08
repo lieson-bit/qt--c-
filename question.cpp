@@ -59,15 +59,4 @@ int calc(int ans,int num,std::vector<Question> questions)
     return ad;
 }
 
-/*
-  Некоторы опции для файла проекта
-target    libs   congig   destdir   defines   includepath   dependpath   subdirs   template   translation
-This is located in the .pro file
 
-метаобеьктный компилятор МОС
-the code is stored in the name
- moc_<filename>.cpp
- Для создание фа
- moc -o proc.moc proc.h
-p1bl->setPixmap(QPixmap(
-*/
